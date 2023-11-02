@@ -1,6 +1,6 @@
 {
-  "name": "@jsr/event-dispatcher",
-  "version": "1.0.1",
+  "name": "@jsfig/event-dispatcher",
+  "version": "1.0.2",
   "description": "Standard interfaces for event handling",
   "homepage": "https://js-fig.org",
   "bugs": {

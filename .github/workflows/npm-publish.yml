@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 18
           registry-url: https://registry.npmjs.org/
-          scope: '@jsr'
+          scope: '@jsfig'
       - run: yarn install
       - run: yarn build
       - run: yarn publish --access public --registry https://registry.npmjs.org/
